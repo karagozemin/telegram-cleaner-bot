@@ -1,0 +1,4 @@
+# Telegram Cleaner Bot Dependencies
+# Install with: pip install -r requirements.txt
+
+telethon>=1.29.0 
